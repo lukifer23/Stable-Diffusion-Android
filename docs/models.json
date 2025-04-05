@@ -344,7 +344,7 @@
     "size": "1.0 Gb",
     "sources": [
       "https://github.com/ShiftHackZ/Local-Diffusion-Models-SDAI-ONXX/releases/download/patch-25022024/universestable.zip",
-      "https://github.com/ShiftHackZ/Local-Diffusion-Models-SDAI-ONXX/releases/download/patch-25022024/universestable.zip"
+      "https://gh-proxy.ygxz.in/https://github.com/ShiftHackZ/Local-Diffusion-Models-SDAI-ONXX/releases/download/patch-25022024/universestable.zip"
     ],
     "metadata": {
       "src": "https://huggingface.co/Androidonnxfork/test/tree/main/fp16fullonnxsdquantized_in_ort/othermodels1/universestable*"
