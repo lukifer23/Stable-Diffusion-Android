@@ -163,6 +163,7 @@
     <string name="title_txt_inversion">Metin İnversiyon</string>
     <string name="title_txt_inversion_short">İnversiyon</string>
     <string name="title_tag_edit">Etiketi düzenle</string>
+    <string name="title_select_download_source">Kaynağı seçin</string>
 
     <string name="gallery_media_store_banner">Kayıtlı %1$s fotoğrafınız var Download/SDAI</string>
     <string name="gallery_info_field_date">Oluşturulma</string>

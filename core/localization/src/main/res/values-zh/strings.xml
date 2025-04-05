@@ -191,6 +191,7 @@
     <string name="title_txt_inversion">文本反转</string>
     <string name="title_txt_inversion_short">反转</string>
     <string name="title_tag_edit">编辑标签</string>
+    <string name="title_select_download_source">选择来源</string>
 
     <!-- 画廊媒体存储横幅 -->
     <string name="gallery_media_store_banner">您在 Download/SDAI 中保存了%1$s张照片。</string>

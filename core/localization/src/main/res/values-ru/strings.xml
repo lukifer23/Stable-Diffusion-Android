@@ -163,6 +163,7 @@
     <string name="title_txt_inversion">Инверсия текста</string>
     <string name="title_txt_inversion_short">Инверсия</string>
     <string name="title_tag_edit">Редактор тега</string>
+    <string name="title_select_download_source">Выберите источник</string>
 
     <string name="gallery_media_store_banner">%1$s генераций находится в Download/SDAI</string>
     <string name="gallery_info_field_date">Создано</string>
